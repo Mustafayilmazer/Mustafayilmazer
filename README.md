@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Mustafayilmazer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+ @Mustafa_yilmazer02
+- @criatiano
+- okul okuyorum
+- bir işim yok
+  Adıyaman da oturyor
 <!---
 Mustafayilmazer/Mustafayilmazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
